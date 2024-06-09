@@ -1,2 +1,2 @@
 # Ezra_repository
-First repositort - DEMO
+First repository - DEMO
